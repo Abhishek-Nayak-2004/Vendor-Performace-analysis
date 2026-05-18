@@ -117,5 +117,3 @@ Helps businesses:
 * Improve profit margins through data-driven insights
 
 ---
-
-If you want, I can upgrade this into a **resume-level GitHub project (with badges, screenshots, and impact statements)** or make it **ATS-friendly project description**.
